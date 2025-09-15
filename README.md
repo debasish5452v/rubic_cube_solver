@@ -49,6 +49,3 @@ pip install opencv-python numpy imutils webcolors kociemba
 - If the webcam is not detected, the program will try camera indices 0, 1, and 2.
 - If color detection fails, ensure good lighting and adjust cube position.
 - If you get "Unrecognized center color", check your cube stickers and calibrate thresholds in `getcolor()`.
-
-## License
-
