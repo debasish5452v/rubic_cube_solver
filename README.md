@@ -52,4 +52,3 @@ pip install opencv-python numpy imutils webcolors kociemba
 
 ## License
 
-MIT License
